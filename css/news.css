@@ -47,8 +47,16 @@ p{
     grid-template-areas: "post sides";
     grid-row-gap: 10px;
     grid-column-gap: 4px;
+    padding: 4rem 1.5rem;
 
 
+}
+.blog-post{
+    background-color: red;
+    width: 90%;
+}
+.blog-post img{
+    width: 100%;
 }
 .post{
 
@@ -56,7 +64,7 @@ p{
 }
 .blog-icons{
     display: flex;
-    width: 60%;
+   
     justify-content: space-between;
 }
 .blog-icon{
@@ -66,7 +74,7 @@ p{
     
 }
 .blog-icon *{
-    margin: 0 3px;
+   
 }
 .side-header{
 
