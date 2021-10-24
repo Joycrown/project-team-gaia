@@ -582,6 +582,14 @@
     .botts{
         margin-top:  1em !important;
     }
+
+    /* .size-img{
+        object-position: center 20%;
+        object-fit: cover;
+        width: ;
+        height: 250px;
+        overflow: hidden;
+    } */
 }
 
 @media (min-width: 960px){
@@ -678,5 +686,25 @@
 
     .second-content{
         padding-top: 6em !important;
+    }
+}
+
+@media(min-width: 1200px) {
+    .first-line{
+        background-color: #BFD2F8;
+        height: 8px;
+        width: 252px;
+    }
+
+    .second-line{
+        background-color: #1F2B6C;
+        height: 8px;
+        width: 520px;
+    }
+    
+    .third-line{
+        background-color: #159EEC;
+        height: 8px;
+        width: 220px;
     }
 }
