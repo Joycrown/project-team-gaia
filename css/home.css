@@ -192,6 +192,26 @@
     color: #ccc;
 }
 
+.margin-top{
+    margin-bottom: 0px;
+    margin-top: 2px;
+    padding-top: 9px !important;
+}
+
+.email-margin{
+    margin-top: 1px;
+
+}
+
+.margin-bottom{
+    margin-top: 1px;
+}
+
+.date-margin{
+    margin-top: 1px;
+    
+}
+
 .top-border{
     border-radius: 5px 5px 0 0;
 }
@@ -706,5 +726,13 @@
         background-color: #159EEC;
         height: 8px;
         width: 220px;
+    }
+
+    .message-height{
+        width: 95.79% !important;
+    }
+    
+    .submit{
+        width: 95.79% !important;
     }
 }
