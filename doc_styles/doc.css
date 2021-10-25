@@ -29,3 +29,24 @@
     margin-left: 7em;
     align-self: center;
 } */
+
+@media screen and (max-width: 766px) {
+    .cardy {
+        width: 60%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .cardy {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cardy {
+        width: 95%;
+        margin: 0 auto;
+    }
+}
