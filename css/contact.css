@@ -4,7 +4,11 @@
 .contact-map{
 
         border: 2px solid red;
+<<<<<<< HEAD
         width: 991px;
+=======
+        width: 992px;
+>>>>>>> 2f296b37c9e3faeb7c34b758b9ac44aa98c4cffb
         height: 450px;
 }
 .contact-form h3{
@@ -199,7 +203,11 @@
 
     .five::before{
         content: "";
+<<<<<<< HEAD
         /* background-image: url(/img/Rectangle\ 33.jpg); */
+=======
+        background-image: url(/img/Rectangle\ 33.jpg);
+>>>>>>> 2f296b37c9e3faeb7c34b758b9ac44aa98c4cffb
         background-repeat: no-repeat;
         top: 0;
         left: 0;
@@ -314,6 +322,7 @@
     .submit{
         width: 93% !important;
         margin: 0 auto;
+<<<<<<< HEAD
     }
 
 .map{
@@ -321,3 +330,6 @@
     align-content: center;
     text-align: center;
 }
+=======
+    }
+>>>>>>> 2f296b37c9e3faeb7c34b758b9ac44aa98c4cffb
